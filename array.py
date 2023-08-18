@@ -4,3 +4,4 @@ y = np.array([3, 5, 7, 26])
 z = 
 ([x, y])
 print(z.shape)
+
